@@ -1,3 +1,5 @@
+This is a copy of SearXNG - Please see original for download
+
 .. SPDX-License-Identifier: AGPL-3.0-or-later
 
 .. _metasearch engine: https://en.wikipedia.org/wiki/Metasearch_engine
